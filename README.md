@@ -22,5 +22,5 @@ Gli appunti disponibili fanno riferimento a corsi di cui è stato sostenuto l'es
 12. [ELETTRONICA I (Prof. Antonio Pio Catalano) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Secondo%20Semestre/Elettronica%20I.pdf)
 ### Terzo anno - Primo Semestre
 13. [SISTEMI OPERATIVI (Prof. Roberto Natella) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Sistemi%20operativi.pdf)
-13. [RETI DI CALCOLATORI (Prof. Roberto Canonico) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Redi%20di%20calcolatori.pdf)
+13. [RETI DI CALCOLATORI (Prof. Roberto Canonico) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Reti%20di%20calcolatori.pdf)
 
