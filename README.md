@@ -23,4 +23,5 @@ Gli appunti disponibili fanno riferimento a corsi di cui è stato sostenuto l'es
 ### Terzo anno - Primo Semestre
 13. [SISTEMI OPERATIVI (Prof. Roberto Natella) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Sistemi%20operativi.pdf)
 13. [RETI DI CALCOLATORI (Prof. Roberto Canonico) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Reti%20di%20calcolatori.pdf)
+14. [BASI DI DATI (Prof. Vincenzo Moscato) - 9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Basi%20di%20dati)
 
