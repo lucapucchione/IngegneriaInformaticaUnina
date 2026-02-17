@@ -25,3 +25,4 @@ Gli appunti disponibili fanno riferimento a corsi di cui è stato sostenuto l'es
 13. [RETI DI CALCOLATORI (Prof. Roberto Canonico) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Reti%20di%20calcolatori.pdf)
 14. [BASI DI DATI (Prof. Vincenzo Moscato) - 9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Basi%20di%20Dati)
 
+Questi appunti sono rilasciati sotto licenza CC BY-NC-SA 4.0. Sei libero di condividerli e modificarli, ma NON puoi venderli e devi sempre citare l'autore.
