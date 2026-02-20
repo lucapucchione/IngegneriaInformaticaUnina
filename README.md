@@ -21,7 +21,8 @@ Gli appunti disponibili fanno riferimento a corsi di cui è stato sostenuto l'es
 ### Secondo anno - Secondo semestre 
 11. [PROGRAMMAZIONE (Prof. Paolo Maresca) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Secondo%20Semestre/Programmazione.pdf)
 12. [ELETTRONICA I (Prof. Antonio Pio Catalano) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Secondo%20Semestre/Elettronica%20I.pdf)
+13. [TEORIA DEI SISTEMI (Prof. Fabio Ruggiero) - 9 CFU](https://github.com/lucaincarnato/ingegneria-informatica-unina/blob/main/Secondo%20Anno/Secondo%20Semestre/Teoria%20dei%20sistemi.pdf)
 ### Terzo anno - Primo Semestre
-13. [SISTEMI OPERATIVI (Prof. Roberto Natella) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Sistemi%20operativi.pdf)
-13. [RETI DI CALCOLATORI (Prof. Roberto Canonico) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Reti%20di%20calcolatori.pdf)
-14. [BASI DI DATI (Prof. Vincenzo Moscato) - 9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Basi%20di%20Dati)
+14. [SISTEMI OPERATIVI (Prof. Roberto Natella) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Sistemi%20operativi.pdf)
+15. [RETI DI CALCOLATORI (Prof. Roberto Canonico) -  9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Reti%20di%20calcolatori.pdf)
+16. [BASI DI DATI (Prof. Vincenzo Moscato) - 9CFU](https://github.com/lucaincarnato/IngegneriaInformaticaUnina/blob/main/Terzo%20Anno/Primo%20Semestre/Basi%20di%20Dati)
